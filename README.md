@@ -76,19 +76,6 @@ upwork:     100% Job Success
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=n4dim&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=d4ff4a&icon_color=8b5cf6&text_color=f4f2ee&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4dim&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=d4ff4a&text_color=f4f2ee" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=n4dim&hide_border=true&background=0a0a0b&ring=d4ff4a&fire=8b5cf6&currStreakLabel=d4ff4a&sideLabels=f4f2ee&currStreakNum=f4f2ee&sideNums=f4f2ee&dates=a6a49f&stroke=161619" alt="Streak" />
-</p>
-
----
-
 ### 🤝 Let's work together
 
 <p align="center">
